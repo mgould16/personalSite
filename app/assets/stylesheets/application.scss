@@ -13,6 +13,7 @@
  *= require_tree .
  *= require_self
  */
+ // Your CSS partials
 @import "bootstrap/scss/bootstrap";
-// @import "components/index";
+@import "components/index";
 
